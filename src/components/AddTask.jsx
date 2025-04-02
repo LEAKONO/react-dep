@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { PlusCircleIcon } from '@heroicons/react/20/solid';
+import { PlusCircleIcon } from '@heroicons/react/24/solid';
 import toast from 'react-hot-toast';
 
 export default function AddTask({ onAdd }) {

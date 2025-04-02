@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { TrashIcon, CheckIcon } from '@heroicons/react/20/solid';
+import { TrashIcon, CheckIcon } from '@heroicons/react/24/solid';
 import toast from 'react-hot-toast';
 
 export default function TaskItem({ task, onDelete, onToggle }) {

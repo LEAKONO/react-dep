@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
-import { ChevronDownIcon } from '@heroicons/react/20/solid';
-import { Menu } from '@headlessui/react';
+import { ChevronDownIcon } from "@heroicons/react/24/solid";  
 import useTasks from '../hooks/useTasks';
 import TaskItem from './TaskItem';
 import AddTask from './AddTask';
