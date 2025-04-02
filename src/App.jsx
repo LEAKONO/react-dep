@@ -6,7 +6,7 @@ function App() {
     <div className="max-w-md mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">Task Manager</h1>
       <TaskList />
-      <Toaster position="bottom-right" />
+      <Toaster position="top-right" />
     </div>
   );
 }
